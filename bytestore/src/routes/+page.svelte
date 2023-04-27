@@ -1,13 +1,11 @@
 <svelte:head>
-    <title>SIMTOO - Shop Inventory Management</title>
+    <title>CS++ Inventory Manager</title>
 </svelte:head>
 
 <script>
-    // @ts-ignore
     import { onMount } from 'svelte';
-    // @ts-ignore
     let footprint;
-    const apiURL = 'http://localhost:8694';
+    const apiURL = 'http://localhost:8361';
 
     let username = "";
     let password = "";

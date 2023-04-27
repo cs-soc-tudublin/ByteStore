@@ -14,6 +14,10 @@
     --green: #83D883;
     --blue: #84B1C2;
     --purple: #C185BD;
+    --csppDarkBlue: #2A1191;
+    --csppBlue: #462AB3;
+    --csppLightBlue: #4159FF;
+    --csppLightestBlue: #549FFF;
 }
 
 /* Sets default behaviour for all text and items */
