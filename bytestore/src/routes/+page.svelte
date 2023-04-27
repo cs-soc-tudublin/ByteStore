@@ -53,7 +53,7 @@
                 <input type="password" name="pass" placeholder="Password" bind:value={password}>
 
                 <select name="mode" placeholder="User" bind:value={mode}>
-                    <option value="user"">User</option>
+                    <option value="user">User</option>
                     <option value="management">Backend</option>
                     <option value="till">Till</option>
                 </select>
