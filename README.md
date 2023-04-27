@@ -20,4 +20,4 @@ The ByteStore repository is split into two parts:
 Furthermore, documentation and licensing information can be found in the `docs` folder.
 
 ### License
-ByteStore is licensed under the ISC License. See the `docs/LICENSE` file for more information.
+ByteStore is licensed under the GPL v3 License. See the `docs/LICENSE` file for more information.

@@ -44,7 +44,7 @@
 
 <div class="main">
     <div class="interior">
-        <h1 class="large title">SIM</h1>
+        <h1 class="large title">ByteStore</h1>
 
         <div id="user" class="active">
             <div class="loginForm">
@@ -53,7 +53,7 @@
                 <input type="password" name="pass" placeholder="Password" bind:value={password}>
 
                 <select name="mode" placeholder="User" bind:value={mode}>
-                    <option value="user" selected="selected">User</option>
+                    <option value="user"">User</option>
                     <option value="management">Backend</option>
                     <option value="till">Till</option>
                 </select>
