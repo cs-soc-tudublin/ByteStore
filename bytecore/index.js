@@ -5,6 +5,7 @@ import aes from 'crypto-js/aes.js';
 import Base64 from 'crypto-js/enc-base64.js';
 import bodyParser from 'body-parser';
 import cookieParser from 'cookie-parser';
+import cors from 'cors';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { Low } from 'lowdb';
@@ -75,6 +76,7 @@ await db.read();
 const app = express();
 app.use(cookieParser());
 app.use(express.json());
+app.use(cors());
 
 // Routes.
 
