@@ -23,7 +23,7 @@ To deploy ByteStore, complete the following instructions:
 2. cd into ByteCore and type `npm install`
 3. Then run `npm start`
 4. cd into ByteStore and type `npm install`
-5. Then run `npm rum dev` and follow the instructions to expose the port.
+5. Then run `npm run dev` and follow the instructions to expose the port.
 
 Furthermore, documentation and licensing information can be found in the `docs` folder.
 
