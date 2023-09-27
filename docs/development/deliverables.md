@@ -23,3 +23,9 @@ ByteStore must deliver the following:
 - [ ] Full borrowing system
 - [ ] Photo and documentation attachments
 - [ ] Consumables integration (Repurchase links? Auto Repurchase?)
+
+## Security and Login
+ByteStore should avoid storing sentitive user data where possible.
+To do this, ByteStore shall implement Single Sign-on (SSO).
+The SSO should be able to connect to Github, Google and Microsoft Accounts.
+For admin accounts, 2FA should be an optionally enabled feature.
