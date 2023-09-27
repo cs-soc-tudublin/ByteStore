@@ -11,3 +11,8 @@ To avoid a *massive* initial page-load for pages that load lists, ByteStore shou
 
 [SvelteKit Auth Announcement](https://vercel.com/blog/announcing-sveltekit-auth)
 [SvelteKit Auth Docs](https://authjs.dev/reference/sveltekit)
+
+## Prisma
+Prisma is the ORM, and it has SvelteKit examples for how it works.
+
+[Prisma SvelteKit Examples](https://github.com/prisma/prisma-examples/blob/latest/typescript/rest-sveltekit/)
