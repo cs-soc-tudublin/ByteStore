@@ -1,5 +1,5 @@
 @import './colours.css';
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=IBM+Plex+Sans&display=swap');
+@import './fonts.css';
 
 html,
 body {
