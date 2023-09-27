@@ -1,2 +1,14 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script lang="ts">
+    import type { LayoutData } from './$types';
+    import { Col, Container, Row} from 'sveltestrap';
+    
+    export let data: LayoutData;
+</script>
+
+<Container fluid>
+    <Row>
+        <Col>
+            <h1 class="title large">ByteStore</h1>
+        </Col>
+    </Row>
+</Container>
