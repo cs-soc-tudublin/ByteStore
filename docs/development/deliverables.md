@@ -15,6 +15,7 @@ ByteStore must deliver the following:
 - [ ] Backup systems
 - [ ] Auditing and Logging
 - [ ] Manufacturer details
+- [ ] Form templates system
 
 ## Equipment-Specific deliverables:
 - [ ] Comprehensive & modular topics
