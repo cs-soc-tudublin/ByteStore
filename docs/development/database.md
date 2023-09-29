@@ -14,6 +14,7 @@ The ByteStore database schema should be simple and highly versatile.
 - Users,
 - Equipment,
 - User Groups,
+- Permissions,
 - Actions,
 - Manufacturers,
 - Consumables,
@@ -34,6 +35,8 @@ In the event that a Group has a parent, all administrators of the parent group w
 **Equipment**
 
 **User Groups**
+
+**Permissions**
 
 **Actions**
 
