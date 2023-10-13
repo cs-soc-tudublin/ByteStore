@@ -24,6 +24,7 @@ ByteStore must deliver the following:
 - [ ] Full borrowing system
 - [ ] Photo and documentation attachments
 - [ ] Consumables integration (Repurchase links? Auto Repurchase?)
+- [ ] Perishable tracking
 
 ## Security and Login
 ByteStore should avoid storing sentitive user data where possible.
